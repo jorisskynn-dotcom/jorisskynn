@@ -31,13 +31,11 @@ jorisskynn@gmail.com
 
 <td width="70%" valign="top">
 
-# 👋 Hi there, I'm Kynn Joriss D. Bulay-og
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Kynn Joriss D. Bulay-og
 
 ### 2nd-Year Bachelor of Science in Information Systems (BSIS) Student
 
-💻 Aspiring System Developer &nbsp; | &nbsp;
-🎨 Visual Artist & Graphic Designer &nbsp; | &nbsp;
-🌐 Web Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+System+Developer;BSIS+Student;Visual+Artist+%26+Graphic+Designer;Web+Developer)](https://git.io/typing-svg)
 
 ---
 
