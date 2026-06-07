@@ -24,6 +24,9 @@
 
 https://kynncreate.framer.website/
 
+🌐 Email
+
+jorisskynn@gmail.com
 </td>
 
 <td width="70%" valign="top">
@@ -44,9 +47,9 @@ I'm a 2nd-Year Bachelor of Science in Information Systems (BSIS) student at Dava
 
 Motivated and adaptable BSIS student with knowledge in programming, web development, and information systems. Strong problem-solving, teamwork, and communication skills with experience in academic and business-related projects.
 
-I am eager to gain professional experience and contribute effectively in a dynamic work environment.
-
 Beyond technology, I also work in visual arts and graphic design, creating posters, branding materials, digital artwork, and creative media that combine aesthetics with functionality.
+
+I am eager to gain professional experience and contribute effectively in a dynamic work environment.
 
 ---
 
