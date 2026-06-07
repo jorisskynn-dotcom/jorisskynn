@@ -82,13 +82,21 @@ A professional portfolio showcasing my projects, skills, graphic designs, and de
 🔗 https://kynncreate.framer.website/
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+### 🏆 Achievements
+- Graduated with honor at Father Saturnino Urios College of Trento Inc.
+- Created collaborative film
+- Designed visual graphics
+---
+### 🎯 Interests
+- Visual Arts
+- Graphic Designing
+- Creating Film
+- System Designing
+---
+### 📫 Connect With Me
+- ⓕ Facebook: https://www.facebook.com/share/1ApSzGVHYr/
+- 💼 LinkedIn: www.linkedin.com/in/kynn-joriss-bulay-og-b32b1040b
+- 🌐 Portfolio: https://kynncreate.framer.website/
 ---
 
 > "Creativity meets technology to solve problems and create meaningful experiences."
